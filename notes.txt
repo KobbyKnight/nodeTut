@@ -1,0 +1,3 @@
+npm init - to initialize node
+npm install <package name>
+npm uninstall <package name>

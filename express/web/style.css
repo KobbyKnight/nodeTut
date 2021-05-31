@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+input{
+    margin: 2em !important;
+}
+form{
+    padding:2em;
+}

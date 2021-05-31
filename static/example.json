@@ -1,0 +1,11 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "Noting",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kobby",
+  "license": "ISC"
+}
